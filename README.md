@@ -18,4 +18,4 @@ At times, I do like to dive into a serious project and hopefully make something 
   -  :1234: Mathematics
   -  :atom_symbol: Physics
   -  :test_tube: Chemistry
-  -  :mountain_biking_man: Mountain Biking :mountain_biking:
+  -  :mountain_biking_man: Mountain Biking
