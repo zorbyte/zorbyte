@@ -4,10 +4,13 @@ I'm a young developer who for the most part, just likes to mess around with code
 At times, I do like to dive into a serious project and hopefully make something the world will find useful!
 
 **:hammer_and_wrench: Technologies I like to use**
+  -  :scroll: TypeScript/Javascript
+  -  :sauropod: Deno
+  -  :gear: Node.js
   -  :atom_symbol: React 
   -  :electron: Electron
-  -  :scroll: TypeScript/Javascript
   -  :snake: Python
+  
 
 **:bulb: Hobbies/Interests**
   -  :eyes: Anime
