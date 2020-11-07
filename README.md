@@ -7,6 +7,7 @@ At times, I do like to dive into a serious project and hopefully make something 
   -  :scroll: TypeScript/Javascript
   -  :sauropod: Deno
   -  :gear: Node.js
+  -  💨 GoLang
   -  :atom_symbol: React 
   -  :electron: Electron
   -  :snake: Python
