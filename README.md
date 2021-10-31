@@ -1,4 +1,4 @@
-**Hey, I'm zorbyte :wave:**
+**Hey, I'm Oscar :wave:**
 
 I'm a high-school student and developer.
 At times, I do like to dive into a serious project and hopefully make something the world will find useful!
