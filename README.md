@@ -1,4 +1,4 @@
-**Hey, I'm Oscar :wave:**
+**Hey, I'm jan Oka :wave:**
 
 I'm a high-school student and developer.
 At times, I do like to dive into a serious project and hopefully make something the world will find useful!
