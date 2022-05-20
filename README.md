@@ -1,7 +1,6 @@
 **Hey, I'm jan Oka :wave:**
 
 I'm a high-school student and developer.
-At times, I do like to dive into a serious project and hopefully make something the world will find useful!
 
 **:hammer_and_wrench: Technologies I like to use**
   -  :scroll: TypeScript/Javascript
@@ -20,4 +19,5 @@ At times, I do like to dive into a serious project and hopefully make something 
   -  :ear: Hi-Fi audio
   -  :1234: Mathematics
   -  :mountain_biking_man: Mountain Biking
+  -  :bulb: Philosophy
   -  :atom_symbol: Physics
