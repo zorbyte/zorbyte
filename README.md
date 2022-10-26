@@ -1,6 +1,6 @@
-**Hey, I'm jan Oka :wave:**
+**Hey, I'm Annabeth :hibiscus:**
 
-I'm a high-school student and developer.
+I'm a trans software developer.
 
 **:hammer_and_wrench: Technologies I like to use**
   -  :scroll: TypeScript/Javascript
